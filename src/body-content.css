@@ -114,7 +114,8 @@
 }
 
 @media (max-width: 800px) {
-  .content-img-container {
+  .content-img-container,
+  .main-cont{
     grid-template-columns: 1fr;
     row-gap: 10px;
     width: 100%;
